@@ -21,7 +21,7 @@ The API-USUARIO project is designed to manage user data with functionalities tha
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/api-usuario.git
+   git clone https://github.com/rafael-b-souza/api-usuario.git
    ```
 
 2. **Navigate to the project directory:**
